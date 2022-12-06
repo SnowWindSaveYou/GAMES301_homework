@@ -39,6 +39,18 @@ Open **SurfaceFrameworkCmake.sln**, select **SurfaceFrameworkCmake** as launch p
 - Hw2中最小步长过小
 - SD以方形开始时出现nan
 
+## Homework files
+
+#### Hw1 Tuttle 
+
+`/src/MyCode/FixedBoundaryParaAlg.*`
+
+#### HW2 Eigen system
+`/src/MyCode/EigensystemDistortion.*` 
+`/src/MyCode/SquashTriangle.*` 2D局部能量
+
+#### HW3 Discrete One Form
+`/src/MyCode/LSCM`自由边界参数化
 
 
 
